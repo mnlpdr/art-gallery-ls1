@@ -1,0 +1,51 @@
+p{
+  margin: 0
+}
+
+.overlay{
+  height: min-content;
+  padding: 0px 0px 5px 5px;
+  margin-top: auto;
+}
+
+.title{
+  font-family: 'Playfair Display', serif;
+  font-weight: 800;
+  color: #fff;
+  font-size: 20px;
+}
+
+.author{
+  font-family: 'Amatic SC', cursive;
+  font-weight: 400;
+  color: #fff;
+  font-size: 12px;
+}
+
+.artgallery{
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.line{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.columns{
+  flex-basis: 25%;
+  max-width: 25%;
+}
+
+.image{
+  filter: grayscale(0%);
+}
+
+.image:hover{
+  filter: grayscale(70%);
+}
+
+.card{
+  margin-top: 10px;
+}
