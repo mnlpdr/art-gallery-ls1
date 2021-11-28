@@ -17,21 +17,21 @@ const dataset = [
     id: 3,
     name: 'O quarto em Arles',
     image: 'imgs/OQuartoEmArles.jpg',
-    author: 'Van Gogh',
+    author: 'Vincent Van Gogh',
     description: 'Quarto em Arles é uma obra do pintor impressionista Vincent van Gogh. Há três exemplares originais, pintados entre outubro de 1878 e setembro de 1889. A obra é uma das mais conhecidas do artista. O famoso quadro retrata o quarto que Vincent van Gogh alugou numa pensão, na cidade de Arles, na França, país onde trabalhou durante quase toda a sua vida.\n Essa tela atualmente encontra-se no Museu de Orsay, em Paris, na França.',
   },
   {
     id: 4,
     name: 'Noite Estrelada',
     image: 'imgs/noite.jpg',
-    author: 'Van Gogh',
-    description: 'Uma série de quadros do holandês Vincent van Gogh poderia figurar na lista de pinturas mais famosas do mundo. Escolhemos, no entanto, A noite estrelada, pintada em 1889.\n A peça é uma pintura a óleo em tela que mede 73,7 cm × 92,1 cm e se encontra atualmente no MoMA, em Nova Iorque.'
+    author: 'Vincent Van Gogh',
+    description: 'A Noite Estrelada é uma pintura de Vincent van Gogh de 1889. A obra retrata a vista da janela de um quarto do hospício de Saint-Rémy-de-Provence, pouco antes do nascer do sol, com a adição de um vilarejo idealizado pelo artista. A tela faz parte da coleção permanente do Museu de Arte Moderna de Nova Iorque desde 1941. É considerada uma das mais famosas pinturas de Van Gogh e uma das mais icônicas da arte ocidental.\n A peça é uma pintura a óleo em tela que mede 73,7 cm × 92,1 cm e se encontra atualmente no MoMA, em Nova Iorque.',
   },
   {
     id: 5,
     name: 'Van Gogh self-portrait',
     image: 'imgs/vangogh.jpg',
-    author: 'Van Gogh',
+    author: 'Vincent Van Gogh',
     description: 'Após quase 50 anos de dúvidas sobre sua autenticidade, especialistas confirmaram que o famoso autorretrato de Vincent van Gogh foi realmente pintado pelo artista holandês.\n A obra foi feita enquanto o pintor se recuperava em um asilo francês de um colapso mental, sendo concluída em 1889. As primeiras dúvidas sobre a pintura surgiram na década de 1970. Críticos de arte questionavam o uso de cores incomuns para Van Gogh, assim como o uso de faca de paleta para aplainar as pinceladas. A obra, no entanto, foi comprada como genuína em 1910 pelo Museu Nacional da Noruega.',
   },
   {
